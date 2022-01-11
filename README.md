@@ -1,1 +1,1 @@
-# Dibities-Detection
+# Diabities-Detection
